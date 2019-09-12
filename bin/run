@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/weather_by_zip_code"
+
+WeatherByZipCode::CLI.new.call
