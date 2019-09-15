@@ -1,8 +1,6 @@
 # WeatherByZipCode
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/weather_by_zip_code`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem gives the user the current weather in either Seattle, WA or Oradell, NJ. It provides the high temperature, low temperature, and current weather conditions.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After running bin/run, the user will be asked if they would like to know the weather in Seattle, WA or Oradell, NJ. They will be asked to enter 0 for Seattle, 1 for Oradell, or exit to end the gem. If they enter anything else, they will be asked again to enter 0, 1, or exit.
 
 ## Development
 
